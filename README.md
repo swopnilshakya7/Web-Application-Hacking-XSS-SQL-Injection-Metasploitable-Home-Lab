@@ -285,7 +285,7 @@ we can see the results as per our query. </br>
 </br>
 
 
-<h3> Securing Web applications </h3>
+<h3> SECURING WEB APPLICATIONS</h3>
 
 The metasploitable webserver is not just for ethical hacking learning but it also does have the ways to secure the site with these common attacks. For that, in every vulnerable page, there is viw source button on the right bottom corner. With that, we can view the page source code. We need to view the source codes of each page in different security levels and compare it to learn the ways of securing a web application.
 
@@ -322,4 +322,4 @@ For each type of web attacks, we can do the same way of learning to analyze the 
 
 
 <p align="left">
-<br/> Step 1: Virtual machine setup.<br/>
+
